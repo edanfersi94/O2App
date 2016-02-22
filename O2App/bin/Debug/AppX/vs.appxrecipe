@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-E2OJG7T</Machine>
+    <WindowsUser>edwar</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>58ba898f-0c82-444b-9104-9d5c686af928</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D11F543A3C9B017057C477C0A5CF9780DA60DB6A44430A9C34A7626CAA9494BA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>58ba898f-0c82-444b-9104-9d5c686af928_1.0.0.0_neutral__p2xgfmjx5jq1t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>58ba898f-0c82-444b-9104-9d5c686af928_p2xgfmjx5jq1t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>58ba898f-0c82-444b-9104-9d5c686af928</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=edwar</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-22T01:54:33.149</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-02-22T01:51:19.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-11T01:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T01:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T01:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T01:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T01:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T01:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T01:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-02-22T01:53:07.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-10-11T01:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-10-11T01:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-10-11T01:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-10-11T01:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-10-11T01:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-10-11T01:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-10-11T01:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-22T01:54:31.974</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

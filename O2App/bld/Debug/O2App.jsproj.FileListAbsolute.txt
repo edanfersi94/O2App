@@ -1,0 +1,16 @@
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bin\Debug\ReverseMap\resources.pri
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bin\Debug\AppxManifest.xml
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bin\Debug\O2App.build.appxrecipe
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\ResourceHandlingTask.state
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\priconfig.xml
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\priconfig.xml.intermediate
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\layout.resfiles
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\layout.resfiles.intermediate
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\resources.resfiles
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\resources.resfiles.intermediate
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\pri.resfiles
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\pri.resfiles.intermediate
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\qualifiers.txt
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\qualifiers.txt.intermediate
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\edwar\documents\visual studio 2015\Projects\O2App\O2App\bld\Debug\ProjectArchitectures.txt
